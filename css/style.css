@@ -1,3 +1,51 @@
+header{
+    width:100%;
+    height: 50px;
+    background-color:darkslateblue;
+
+}
+header #logo{
+    text-align: center;
+    padding-top:5px;
+}
+
+/*pai*/
+#menu-lateral{
+    width: 159px;
+    
+}
+
+
+
+nav{
+    background-color:coral;
+}
+
+
+
+/*
+nav ul{
+    background-color: blue;
+
+}
+*/
+
+/*
+nav ul li{
+    background-color: darkgrey;
+}
+*/
+nav ul li a{
+    text-decoration: none;
+}
+
+
+
+#menu-lateral nav ul li{
+    padding-top: 9px;
+    font-size:11px;
+}
+
 #comandos{
-    background-color: blueviolet;
+    background-color: cornflowerblue;
 }
