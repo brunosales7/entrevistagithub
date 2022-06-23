@@ -56,16 +56,6 @@ nav ul li a:hover{
 }
 
 
-#busca{
-    text-align:right;
-    margin:30px;
-    top: 40px;
-    
-}
-
-
-
-
 #comandos{
     background-color:cornflowerblue;
 }
@@ -83,7 +73,7 @@ nav ul li a:hover{
 #area-principal{
 
      width:1010px;
-     border:2px solid #090979;
+     border:2px solid blue;
      height:500px;
      margin-left: 100px;
      
